@@ -1,0 +1,14 @@
+h1 {
+  outline: 2px gray solid;
+  color: rgb(0, 0, 0);
+  display: block;
+  margin: 40px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(234, 236, 238);
+}
+ul {
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

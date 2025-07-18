@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+p,
+ul,
+ol {
+  background-color: rgb(225, 229, 233);
+  padding: 16px;
+}
+img {
+  padding: 8px;
+}
+h3 {
+  color: rgb(102, 0, 0);
+  font-family: sans-serif;
+}
